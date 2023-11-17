@@ -1,0 +1,25 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "exercism@latest": {
+      "last_modified": "2023-10-25T20:49:13Z",
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#exercism",
+      "source": "devbox-search",
+      "version": "3.2.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/0bicc5k7fnxklg28l2sz6kc3qmgs1d5z-exercism-3.2.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/xfz6bsmi2qrgajwrf4m0vj4l1slrlz9f-exercism-3.2.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/yxbyvd89nmrxz0i7mfvn5i0hmk5bm81s-exercism-3.2.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/496by9sr7sz7s10c2cywaznkr55mffvp-exercism-3.2.0"
+        }
+      }
+    }
+  }
+}
